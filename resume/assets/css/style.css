@@ -108,7 +108,7 @@ html {
   dl{
     display: grid;
     grid-template-columns: 1fr 2fr;
-    grid-templates-rows: auto;
+    grid-template-rows: auto;
     /* Shorthand */
     grid-template: auto / 1fr 2fr;
   }
@@ -159,9 +159,7 @@ html {
     margin-right:10px;
   }
   
-  #skills{
-    
-  }
+
   #skills li {
     list-style-type:square;
   }
